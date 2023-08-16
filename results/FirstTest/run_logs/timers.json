@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1683411916",
+        "python_version": "3.9.12 (main, Apr  4 2022, 05:22:27) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\sapat\\anaconda3\\Scripts\\mlagents-learn Assets\\Scripts\\Configs\\DefaultConfig.yaml --run-id=FirstTest --train --force",
+        "mlagents_version": "0.30.0",
+        "mlagents_envs_version": "0.30.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.12.1",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1683411926"
+    },
+    "total": 9.1926862,
+    "count": 1,
+    "self": 0.022529099999999858,
+    "children": {
+        "run_training.setup": {
+            "total": 0.16814070000000036,
+            "count": 1,
+            "self": 0.16814070000000036
+        },
+        "TrainerController.start_learning": {
+            "total": 9.0020164,
+            "count": 1,
+            "self": 0.0005275000000004582,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 9.0014724,
+                    "count": 1,
+                    "self": 9.0014724
+                },
+                "trainer_threads": {
+                    "total": 1.299999999204715e-06,
+                    "count": 1,
+                    "self": 1.299999999204715e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 1.5199999999992997e-05,
+                    "count": 1,
+                    "self": 1.5199999999992997e-05
+                }
+            }
+        }
+    }
+}
