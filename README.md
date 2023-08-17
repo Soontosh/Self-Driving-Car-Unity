@@ -33,5 +33,5 @@ Saves demonstration to file, which can then be used to train model.
 
 ## Google Sites Presentation
 This was a project I made for my science project in 8th grade. I used google sites to present the project.  
-I apologize if the presentation is not in-depth, I had to keep it short and make it understandable to people who didn't know how to code. I only showed simple code and a very broad outline of the project.
-Google sites link: https://sites.google.com/view/science-expo-ai-car
+I apologize if the presentation is not in-depth, I had to keep it short and make it understandable to people who didn't know how to code. I only showed simple code and a very broad outline of the project.  
+Google Sites Link: https://sites.google.com/view/science-expo-ai-car
