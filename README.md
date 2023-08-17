@@ -17,4 +17,3 @@ A car that can drive from point A to point B, made in Unity! Utilizes the ML-Age
 
 ## Upcoming Tasks
 - Hyperparameter Tuning
-- Game Implementation
