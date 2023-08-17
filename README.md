@@ -18,14 +18,16 @@ A car that can drive from point A to point B, made in Unity! Utilizes the ML-Age
 ## Upcoming Tasks
 - Hyperparameter Tuning
 
+### Procedural Generation
 *Procedural Generation, Click for Compilation of Images*
 
 The procedural generation makes use of a modified [Lindenmeyer System](https://www1.biologie.uni-hamburg.de/b-online/e28_3/lsys.html).  
 Structures are disabled for performance reasons.  
 
 ### A* Grid
-Utilizes tree-searching for efficiency. A* Grid is sized dynamically according to road network size.
+Utilizes tree-searching for efficiency. A* Grid is sized dynamically according to road network size.  
 
+### Demonstrator
 [![alt text](ReadMeImages/PlayCarVideo.png)](https://www.youtube.com/watch?v=sPxi9NbGNL0)
 *Demonstrator in Action*
 
