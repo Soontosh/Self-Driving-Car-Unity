@@ -17,3 +17,7 @@ A car that can drive from point A to point B, made in Unity! Utilizes the ML-Age
 
 ## Upcoming Tasks
 - Hyperparameter Tuning
+
+*Procedural Generation*
+
+The procedural generation makes use of a modified [https://www1.biologie.uni-hamburg.de/b-online/e28_3/lsys.html](Lindenmeyer System).
