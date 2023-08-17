@@ -26,7 +26,7 @@ Structures are disabled for performance reasons.
 
 ### A* Grid
 
-[![alt text](ReadMeImages/PlayGenerate.png)](https://youtu.be/ihCfQvqa6LU)
+[![alt text](ReadMeImages/PlayGenerate.png)](https://youtu.be/ihCfQvqa6LU)  
 Utilizes tree-searching for efficiency. A* Grid is sized dynamically according to road network size.  
 
 ### Demonstrator
