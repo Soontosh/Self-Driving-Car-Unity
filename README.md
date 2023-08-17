@@ -25,6 +25,8 @@ The procedural generation makes use of a modified [Lindenmeyer System](https://w
 Structures are disabled for performance reasons.  
 
 ### A* Grid
+
+[![alt text](ReadMeImages/PlayCarVideo.png)](https://youtu.be/ihCfQvqa6LU)
 Utilizes tree-searching for efficiency. A* Grid is sized dynamically according to road network size.  
 
 ### Demonstrator
