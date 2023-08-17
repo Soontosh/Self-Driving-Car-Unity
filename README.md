@@ -20,4 +20,13 @@ A car that can drive from point A to point B, made in Unity! Utilizes the ML-Age
 
 *Procedural Generation*
 
-The procedural generation makes use of a modified [https://www1.biologie.uni-hamburg.de/b-online/e28_3/lsys.html](Lindenmeyer System).
+The procedural generation makes use of a modified [Lindenmeyer System](https://www1.biologie.uni-hamburg.de/b-online/e28_3/lsys.html).
+
+*A Grid Visualization*
+
+Utilizes tree-searching for efficiency. A* Grid is sized dynamically.
+
+*Demonstrator in Action*
+
+Uses the A* Algorithm in tandem with a semi-realistic car controller I made to automatically drive car from point A to point B.  
+Saves demonstration to file, which can then be used to train model.
