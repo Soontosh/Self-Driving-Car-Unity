@@ -26,7 +26,7 @@ The procedural generation makes use of a modified [Lindenmeyer System](https://w
 
 Utilizes tree-searching for efficiency. A* Grid is sized dynamically.
 
-![alt text](Isolated.png "Title")
+![alt text](ReadMeImages/PlayCarVideo.png "Title")
 *Demonstrator in Action*
 
 Uses the A* Algorithm in tandem with a semi-realistic car controller I made to automatically drive car from point A to point B.  
