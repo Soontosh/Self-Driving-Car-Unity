@@ -1,5 +1,5 @@
 # Self-Driving-Car-Unity(Code Only)
-A car that can drive from point A to point B, made in Unity! Utilizes the ML-Agents PPO reinforcement-learning library.
+A car that can drive from point A to point B, made in Unity! Utilizes PPO reinforcement-learning.
 
 ## Current Features
 - Procedural Road Generation
